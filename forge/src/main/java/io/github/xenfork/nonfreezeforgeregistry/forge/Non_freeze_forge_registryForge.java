@@ -1,8 +1,7 @@
-package io.gitee.rtdd.nonfreezeforgeregistry.forge;
+package io.github.xenfork.nonfreezeforgeregistry.forge;
 
-import io.gitee.rtdd.nonfreezeforgeregistry.Non_freeze_forge_registry;
+import io.github.xenfork.nonfreezeforgeregistry.Non_freeze_forge_registry;
 import net.minecraftforge.fml.common.Mod;
-import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 
 @Mod(Non_freeze_forge_registry.MOD_ID)
 public class Non_freeze_forge_registryForge {
